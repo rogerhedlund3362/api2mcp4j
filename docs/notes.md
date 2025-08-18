@@ -17,3 +17,4 @@ Notes and usage details for api2mcp4j.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- add a note about the defaults

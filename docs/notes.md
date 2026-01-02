@@ -37,3 +37,4 @@ Notes and usage details for api2mcp4j.
 - fix a small wording issue
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps

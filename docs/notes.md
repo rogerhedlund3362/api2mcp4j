@@ -49,3 +49,4 @@ Notes and usage details for api2mcp4j.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
